@@ -63,6 +63,11 @@
 - Weaknesses:
 - Lazyness
 
+**Achivements**
+- I completed a python crash course
+
+**Projects**
+- on web technology
 
 
 
