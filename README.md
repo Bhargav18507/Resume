@@ -47,7 +47,7 @@
 - I want to become Software developer in "python"
 
 
-**Skills**
+##**Skills**
 
 - Python - 100%
 
@@ -56,12 +56,15 @@
 - C programming - 90%
 
 
-**Strengths & Weaknesses**
+###**Strengths & Weaknesses**
 - Strengths:
 - Hardwork
 - Logical working
 - Weaknesses:
 - Lazyness
+
+
+
 
 
 
